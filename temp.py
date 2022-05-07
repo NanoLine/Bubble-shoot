@@ -53,4 +53,6 @@ def matrix_general_count(matrix, element):
 
     return count
 
-print(f(matrix, 3))
+# Testing
+if(__name__ == '__main__'):
+    print(f(matrix, 3))
